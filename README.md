@@ -108,9 +108,9 @@ Password-Cracking-and-Hashing-Algorithms/
 
 ### ✍️ Developer
 
-> [MD SAMIUR RAHMAN TANIM](https://github.com/CodeWithTanim)
+> [PARAMESH N T CYBEERSEC](https://github.com/ANIL-1254-BASH/passwordc)
 > Intern at [Codec Technologies](http://codectechnologies.in/)
-> 🔗 [GitHub](https://github.com/CodeWithTanim) | [LinkedIn](https://www.linkedin.com/in/codewithtanim/)
+> 🔗 [GitHub](https://github.com/ANIL-1254-BASH/passwordc) | [LinkedIn](https://www.linkedin.com/in/paramesh-n-t-608606281/)
 
 ---
 
@@ -129,11 +129,3 @@ If you find bugs, improvements, or want to add more algorithms (like PBKDF2, Arg
 
 ---
 
-### 📡 Connect With Me:
-
-<p align="left">
-  <a href="https://fb.com/CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
-```
